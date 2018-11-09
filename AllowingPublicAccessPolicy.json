@@ -1,0 +1,13 @@
+{
+	"Version": "2012-10-17",
+	"ID": "Policy1515622297937",
+	"Statement": [
+		{
+			"Sid": "Stmt1515622292860",
+			"Effect": "Allow",
+			"Principal": "*",
+			"Action": "s#:ListBucket",
+			"Resource": "INSERT ARN"
+		}	
+	]
+}	
